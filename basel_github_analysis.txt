@@ -1,0 +1,49 @@
+Basel GitHub Users Analysis
+
+1. Top 5 users by followers:
+tarsius,aalmiray,marcoroth,klmr,MrNeRF
+
+2. 5 earliest registered users:
+bennyzen,aalmiray,pvillega,tarsius,amaunz
+
+3. Top 3 licenses:
+mit,apache-2.0,other
+
+4. Most common company:
+UNIVERSITY OF BASEL
+
+5. Most popular language:
+JavaScript
+
+6. Second most popular language for users after 2020:
+HTML
+
+7. Language with highest average stars:
+PureScript
+
+8. Top 5 users by leader strength:
+dpryan79,wasserth,ravage84,elanmart,quadbiolab
+
+9. Correlation between followers and public repos:
+0.345
+
+10. Additional followers per public repository:
+0.674
+
+11. Correlation between projects and wiki enabled:
+0.262
+
+12. Difference in following count for hireable users:
+45.869
+
+13. Impact of bio length on followers:
+2.400
+
+14. Top 5 weekend repository creators:
+dpryan79,syzer,ioolkos,maysam,pvillega
+
+15. Difference in email sharing for hireable users:
+0.066
+
+16. Most common surname(s):
+Arnold,Brand,Christensen,Fink,GmbH,Group,Guggisberg,Landolt,Roth,Tan
